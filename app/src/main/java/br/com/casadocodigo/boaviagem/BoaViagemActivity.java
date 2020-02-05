@@ -16,7 +16,7 @@ public class BoaViagemActivity extends Activity {
     private EditText senha;
     private CheckBox manterConectado;
 
-    @Override
+    @Override //algo
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
